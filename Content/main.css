@@ -1,0 +1,61 @@
+
+
+body {
+    font-family: Times;     
+    font-size: 20px;
+    line-height: 25px;
+    background: url(../Assests/images/sf5-ryu-key-artwork.jpg) no-repeat; 
+    background-size: cover;
+    
+}
+
+
+
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Times, sans-serif;
+}
+
+h1 {
+    
+    font-size: 40px;
+    line-height: 50px;
+ color: red;
+}
+
+h2{
+    font-size: 30px;
+    line-height: 50px;
+    color: red;
+}
+
+p {
+ color: black;
+}
+
+/* header class comments */
+
+.header{
+    width: 20% 
+}
+
+
+footer {
+    color: black;
+}
+
+
+a {
+color: black;
+}
+
+/* active class styles */
+
+.active {
+background-color: black;
+}
+
+
+.active a {
+color: white;
+}
